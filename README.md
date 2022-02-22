@@ -5,7 +5,7 @@
 <hr>
 <br>
 
-<h3>Sobre o Dtmoney</h3>
+> Sobre o Dtmoney
 
 <p>
 O Dtmoney é um projeto no qual tem a funcionalidade
@@ -14,7 +14,9 @@ e o Total que é o resultado da subtração do total de entradas pelo total de s
 </p>
 
 <br>
-<h3>Tecnologias Ultilizadas</h3>
+
+> Tecnologias Ultilizadas
+
 <p>
 <ul>
   <li>React</li>
